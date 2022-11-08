@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="The Ur-Dragon"/>
+        <card number="1" name="Amoeboid Changeling"/>
+        <card number="1" name="Ancient Amphitheater"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Auntie's Hovel"/>
+        <card number="1" name="Battle of Frost and Fire"/>
+        <card number="1" name="Blades of Velis Vel"/>
+        <card number="1" name="Bountiful Promenade"/>
+        <card number="1" name="Bring to Light"/>
+        <card number="1" name="Cateran Summons"/>
+        <card number="1" name="Cavern of Souls"/>
+        <card number="1" name="Changeling Outcast"/>
+        <card number="1" name="City of Brass"/>
+        <card number="1" name="Cloudshredder Sliver"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Coveted Prize"/>
+        <card number="1" name="Crib Swap"/>
+        <card number="1" name="Ingenious Infiltrator"/>
+        <card number="1" name="Curse of Opulence"/>
+        <card number="1" name="Entomb"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Feline Sovereign"/>
+        <card number="1" name="Prosperous Thief"/>
+        <card number="1" name="Fire-Belly Changeling"/>
+        <card number="1" name="Flamekin Village"/>
+        <card number="1" name="Gemhide Sliver"/>
+        <card number="1" name="Gilt-Leaf Palace"/>
+        <card number="1" name="Griffin Canyon"/>
+        <card number="1" name="Guardian Gladewalker"/>
+        <card number="1" name="Haakon, Stromgald Scourge"/>
+        <card number="1" name="Harabaz Druid"/>
+        <card number="1" name="Haven of the Spirit Dragon"/>
+        <card number="1" name="Hellkite Courser"/>
+        <card number="1" name="Impostor of the Sixth Pride"/>
+        <card number="1" name="Indatha Triome"/>
+        <card number="1" name="Jarad's Orders"/>
+        <card number="1" name="Katilda, Dawnhart Prime"/>
+        <card number="1" name="Ketria Triome"/>
+        <card number="1" name="Knight Exemplar"/>
+        <card number="1" name="Liliana's Contract"/>
+        <card number="1" name="Luxury Suite"/>
+        <card number="1" name="Magda, Brazen Outlaw"/>
+        <card number="1" name="Malcolm, Keen-Eyed Navigator"/>
+        <card number="1" name="Mana Confluence"/>
+        <card number="1" name="Manaweft Sliver"/>
+        <card number="1" name="Masked Vandal"/>
+        <card number="1" name="Maskwood Nexus"/>
+        <card number="1" name="Merrow Reejerey"/>
+        <card number="1" name="Mirror Entity"/>
+        <card number="1" name="Morophon, the Boundless"/>
+        <card number="1" name="Morphic Pool"/>
+        <card number="1" name="Mothdust Changeling"/>
+        <card number="1" name="Murmuring Bosk"/>
+        <card number="1" name="Mutavault"/>
+        <card number="1" name="Nameless Inversion"/>
+        <card number="1" name="Notorious Throng"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Peer Pressure"/>
+        <card number="1" name="Priest of Titania"/>
+        <card number="1" name="Raugrin Triome"/>
+        <card number="1" name="Realmwalker"/>
+        <card number="1" name="Reaper King"/>
+        <card number="1" name="Reflecting Pool"/>
+        <card number="1" name="Rejuvenating Springs"/>
+        <card number="1" name="Risen Reef"/>
+        <card number="1" name="Savai Triome"/>
+        <card number="1" name="Sea of Clouds"/>
+        <card number="1" name="Secluded Glen"/>
+        <card number="1" name="Shapesharer"/>
+        <card number="1" name="Skeletal Changeling"/>
+        <card number="1" name="Heronblade Elite"/>
+        <card number="1" name="Spectator Seating"/>
+        <card number="1" name="Spire Garden"/>
+        <card number="1" name="Stinging Study"/>
+        <card number="1" name="Swarmyard"/>
+        <card number="1" name="Sylvia Brightspear"/>
+        <card number="1" name="Taurean Mauler"/>
+        <card number="1" name="The Bears of Littjara"/>
+        <card number="1" name="Sea Gate Loremaster"/>
+        <card number="1" name="The World Tree"/>
+        <card number="1" name="Tiamat"/>
+        <card number="1" name="Tovolar, Dire Overlord"/>
+        <card number="1" name="Training Center"/>
+        <card number="1" name="Undergrowth Stadium"/>
+        <card number="1" name="Unesh, Criosphinx Sovereign"/>
+        <card number="1" name="Universal Automaton"/>
+        <card number="1" name="Unsettled Mariner"/>
+        <card number="1" name="Valiant Changeling"/>
+        <card number="1" name="Vault of Champions"/>
+        <card number="1" name="Wanderwine Hub"/>
+        <card number="1" name="Wargate"/>
+        <card number="1" name="Widespread Brutality"/>
+        <card number="1" name="Wings of Velis Vel"/>
+        <card number="1" name="Woodland Changeling"/>
+        <card number="1" name="Yuriko, the Tiger's Shadow"/>
+        <card number="1" name="Zagoth Triome"/>
+        <card number="1" name="Scourge of Valkas"/>
+        <card number="1" name="Wooded Foothills"/>
+        <card number="1" name="Windswept Heath"/>
+        <card number="1" name="Spellstutter Sprite"/>
+    </zone>
+</cockatrice_deck>

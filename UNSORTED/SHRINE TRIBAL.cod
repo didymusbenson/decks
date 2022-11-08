@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Sanctum of Shattered Heights"/>
+        <card number="1" name="Honden of Night's Reach"/>
+        <card number="1" name="Sanctum of Fruitful Harvest"/>
+        <card number="1" name="Sanctum of All"/>
+        <card number="1" name="Honden of Cleansing Fire"/>
+        <card number="1" name="Honden of Seeing Winds"/>
+        <card number="1" name="Honden of Infinite Rage"/>
+        <card number="1" name="Honden of Life's Web"/>
+        <card number="1" name="Sanctum of Stone Fangs"/>
+        <card number="1" name="Sanctum of Calm Waters"/>
+        <card number="1" name="Sanctum of Tranquil Light"/>
+        <card number="1" name="Go-Shintai of Boundless Vigor"/>
+        <card number="1" name="Go-Shintai of Ancient Wars"/>
+        <card number="1" name="Go-Shintai of Lost Wisdom"/>
+        <card number="1" name="Go-Shintai of Shared Purpose"/>
+        <card number="1" name="Go-Shintai of Hidden Cruelty"/>
+        <card number="1" name="Sterling Grove"/>
+        <card number="1" name="Sythis, Harvest's Hand"/>
+        <card number="1" name="Sanctum Weaver"/>
+        <card number="1" name="Serra's Sanctum"/>
+        <card number="1" name="Mesa Enchantress"/>
+        <card number="1" name="Argothian Enchantress"/>
+        <card number="1" name="Verduran Enchantress"/>
+        <card number="1" name="Enchantress's Presence"/>
+        <card number="1" name="Skybind"/>
+        <card number="1" name="Eidolon of Blossoms"/>
+        <card number="1" name="Birds of Paradise"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Privileged Position"/>
+        <card number="1" name="Mirari's Wake"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Kodama's Reach"/>
+        <card number="1" name="Jukai Naturalist"/>
+        <card number="1" name="Destiny Spinner"/>
+        <card number="1" name="Dryad of the Ilysian Grove"/>
+        <card number="1" name="Bloom Tender"/>
+        <card number="1" name="Moon-Blessed Cleric"/>
+        <card number="1" name="Search for Glory"/>
+        <card number="1" name="Esika, God of the Tree"/>
+        <card number="1" name="Nyxbloom Ancient"/>
+        <card number="1" name="Ignoble Hierarch"/>
+        <card number="1" name="Breeding Pool"/>
+        <card number="1" name="Temple Garden"/>
+        <card number="1" name="Steam Vents"/>
+        <card number="1" name="Watery Grave"/>
+        <card number="1" name="Stomping Ground"/>
+        <card number="1" name="Sacred Foundry"/>
+        <card number="1" name="Hallowed Fountain"/>
+        <card number="1" name="Godless Shrine"/>
+        <card number="1" name="Overgrown Tomb"/>
+        <card number="1" name="Blood Crypt"/>
+        <card number="1" name="Yavimaya, Cradle of Growth"/>
+        <card number="1" name="Urborg, Tomb of Yawgmoth"/>
+        <card number="5" name="Forest"/>
+        <card number="2" name="Island"/>
+        <card number="4" name="Plains"/>
+        <card number="2" name="Swamp"/>
+        <card number="2" name="Mountain"/>
+        <card number="1" name="Canopy Vista"/>
+        <card number="1" name="Cinder Glade"/>
+        <card number="1" name="Prairie Stream"/>
+        <card number="1" name="Smoldering Marsh"/>
+        <card number="1" name="Sunken Hollow"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Greater Auramancy"/>
+        <card number="1" name="All That Glitters"/>
+        <card number="1" name="Laboratory Maniac"/>
+        <card number="1" name="Prismatic Omen"/>
+        <card number="1" name="Last Stand"/>
+        <card number="1" name="Stasis"/>
+        <card number="1" name="Winter Orb"/>
+        <card number="1" name="Setessan Champion"/>
+        <card number="1" name="Deathsprout"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Enlightened Tutor"/>
+        <card number="1" name="Resurgent Belief"/>
+        <card number="1" name="Primevals' Glorious Rebirth"/>
+        <card number="1" name="Dance of the Manse"/>
+        <card number="1" name="Open the Vaults"/>
+        <card number="1" name="Strionic Resonator"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Smothering Tithe"/>
+        <card number="1" name="The Kami War"/>
+        <card number="1" name="Utopia Sprawl"/>
+        <card number="1" name="Wilderness Reclamation"/>
+        <card number="1" name="Wizard Class"/>
+        <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Reliquary Tower"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Go-Shintai of Life's Origin"/>
+    </zone>
+</cockatrice_deck>

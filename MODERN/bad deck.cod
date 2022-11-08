@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Heartless Summoning"/>
+        <card number="4" name="Myr Superion"/>
+        <card number="4" name="Lovestruck Beast // Heart's Desire"/>
+        <card number="4" name="Falkenrath Noble"/>
+        <card number="4" name="Myr Retriever"/>
+        <card number="4" name="Overgrown Tomb"/>
+        <card number="4" name="Verdant Catacombs"/>
+        <card number="4" name="Nurturing Peatland"/>
+        <card number="4" name="Tarmogoyf"/>
+        <card number="2" name="Defiler of Vigor"/>
+        <card number="4" name="Thoughtseize"/>
+        <card number="1" name="Boseiju, Who Endures"/>
+        <card number="4" name="Forest"/>
+        <card number="4" name="Swamp"/>
+        <card number="4" name="Fatal Push"/>
+        <card number="2" name="Springleaf Drum"/>
+        <card number="3" name="Ignoble Hierarch"/>
+    </zone>
+</cockatrice_deck>

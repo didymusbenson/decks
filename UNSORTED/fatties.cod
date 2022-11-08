@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="side">
+        <card number="1" name="O-Kagachi, Vengeful Kami"/>
+    </zone>
+    <zone name="main">
+        <card number="1" name="Amareth, the Lustrous"/>
+        <card number="1" name="Arctic Nishoba"/>
+        <card number="1" name="Brambleweft Behemoth"/>
+        <card number="1" name="Colossal Dreadmaw"/>
+        <card number="1" name="Cowl Prowler"/>
+        <card number="1" name="Darigaaz, the Igniter"/>
+        <card number="1" name="Earthshaker Giant"/>
+        <card number="1" name="Essence of the Wild"/>
+        <card number="1" name="Euroakus"/>
+        <card number="1" name="Flourishing Hunter"/>
+        <card number="1" name="Gleancrawler"/>
+        <card number="1" name="Honey Mammoth"/>
+        <card number="1" name="Honored Hydra"/>
+        <card number="1" name="Intet, the Dreamer"/>
+        <card number="1" name="Johtull Wurm"/>
+        <card number="1" name="Kessig Dire Swine"/>
+        <card number="1" name="Kindercatch"/>
+        <card number="1" name="Kodama of the East Tree"/>
+        <card number="1" name="Krond the Dawn-Clad"/>
+        <card number="1" name="Meglonoth"/>
+        <card number="1" name="Muldrotha, the Gravetide"/>
+        <card number="1" name="Nessian Wilds Ravager"/>
+        <card number="1" name="Otrimi, the Ever-Playful"/>
+        <card number="1" name="Palladia-Mors, the Ruiner"/>
+        <card number="1" name="Primeval Titan"/>
+        <card number="1" name="Rampaging Baloths"/>
+        <card number="1" name="Ravenous Lindwurm"/>
+        <card number="1" name="Rith, the Awakener"/>
+        <card number="1" name="Ruric Thar, the Unbowed"/>
+        <card number="1" name="Sagu Mauler"/>
+        <card number="1" name="Sawtusk Demolisher"/>
+        <card number="1" name="Scuttlegator"/>
+        <card number="1" name="Skysnare Spider"/>
+        <card number="1" name="Soul of the Harvest"/>
+        <card number="1" name="Soul of Zendikar"/>
+        <card number="1" name="Sulam Djinn"/>
+        <card number="1" name="Teneb, the Harvester"/>
+        <card number="1" name="Tovolar's Huntmaster"/>
+        <card number="1" name="Treva, the Renewer"/>
+        <card number="1" name="Ulvenwald Observer"/>
+        <card number="1" name="Vaevictis Asmadi, the Dire"/>
+        <card number="1" name="Vigor"/>
+        <card number="1" name="Vorinclex, Monstrous Raider"/>
+        <card number="1" name="Vorosh, the Hunter"/>
+        <card number="19" name="Forest"/>
+        <card number="1" name="Jetmir's Garden"/>
+        <card number="1" name="Ketria Triome"/>
+        <card number="1" name="Savannah"/>
+        <card number="1" name="Spara's Headquarters"/>
+        <card number="1" name="Taiga"/>
+        <card number="1" name="Tropical Island"/>
+        <card number="1" name="Zagoth Triome"/>
+        <card number="1" name="Ziatora's Proving Ground"/>
+        <card number="1" name="Island"/>
+        <card number="1" name="Mountain"/>
+        <card number="1" name="Plains"/>
+        <card number="1" name="Swamp"/>
+        <card number="1" name="Bonders' Enclave"/>
+        <card number="1" name="Colossal Majesty"/>
+        <card number="1" name="Garruk's Uprising"/>
+        <card number="1" name="Kavu Lair"/>
+        <card number="1" name="Sight of the Scalelords"/>
+        <card number="1" name="Temur Ascendancy"/>
+        <card number="1" name="The First Iroan Games"/>
+        <card number="1" name="Roar of Challenge"/>
+        <card number="1" name="See the Unwritten"/>
+        <card number="1" name="Shamanic Revelation"/>
+        <card number="1" name="Skyshroud Claim"/>
+        <card number="1" name="Three Visits"/>
+        <card number="1" name="Nature's Lore"/>
+        <card number="1" name="Ranger's Path"/>
+        <card number="1" name="Spoils of Victory"/>
+        <card number="1" name="Triumph of the Hordes"/>
+        <card number="1" name="Lurking Predators"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Genesis Wave"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Kodama's Reach"/>
+        <card number="1" name="Rampant Growth"/>
+    </zone>
+</cockatrice_deck>
