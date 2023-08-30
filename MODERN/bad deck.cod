@@ -19,6 +19,6 @@
         <card number="4" name="Swamp"/>
         <card number="4" name="Fatal Push"/>
         <card number="2" name="Springleaf Drum"/>
-        <card number="3" name="Ignoble Hierarch"/>
+        <card number="5" name="Ignoble Hierarch"/>
     </zone>
 </cockatrice_deck>
