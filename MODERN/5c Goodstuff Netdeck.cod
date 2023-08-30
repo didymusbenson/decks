@@ -37,6 +37,6 @@
         <card number="1" name="Sundering Titan"/>
         <card number="1" name="Turn the Earth"/>
         <card number="2" name="Unmoored Ego"/>
-        <card number="3" name="Veil of Summer"/>
+        <card number="2" name="Veil of Summer"/>
     </zone>
 </cockatrice_deck>
